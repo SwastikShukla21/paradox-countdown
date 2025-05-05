@@ -40,7 +40,7 @@ export default function Home() {
         ></link>
       </Head>
 
-      <CountdownTimer targetDate="2025-05-29" />
+      <CountdownTimer targetDate="2025-06-03" />
     </div>
   );
 }
